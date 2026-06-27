@@ -1,0 +1,20 @@
+{
+  "persons": [
+    {
+      "name": "Ada Lovelace",
+      "number": "39-44-5323523",
+      "id": "2"
+    },
+    {
+      "name": "Althea Mae",
+      "number": "12345678",
+      "id": "j1Z1toFJOyA"
+    },
+    {
+      "name": "Angelica",
+      "number": "097426742",
+      "id": "o67i36eTAf8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
